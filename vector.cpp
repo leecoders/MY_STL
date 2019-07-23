@@ -49,7 +49,9 @@
 //    }
 //
 //    void pop_back() {
-//        _size--;
+//        if(_size) {
+//            _size--;
+//        }
 //    }
 //
 //    int& operator [] (int idx) {
@@ -62,16 +64,8 @@
 //};
 //
 //int n;
-//MY_VECTOR my_vector;
+//MY_VECTOR my_vector(50001);
 //
 //int main() {
-//    scanf("%d", &n);
-//    for(int i=0; i<n; ++i) {
-//        int input;
-//        scanf("%d", &input);
-//        my_vector.push_back(input);
-//    }
-//    for(int i=0; i<n; ++i) {
-//        printf("%d ", my_vector[i]);
-//    }
+//
 //}

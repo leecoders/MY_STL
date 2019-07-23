@@ -9,7 +9,6 @@ CMakeFiles/my_stl.dir/linked_list.cpp.o: ../linked_list.cpp
 
 CMakeFiles/my_stl.dir/main.cpp.o: ../main.cpp
 
-CMakeFiles/my_stl.dir/practice_code.cpp.o: ../bits/stdc++.h
 CMakeFiles/my_stl.dir/practice_code.cpp.o: ../practice_code.cpp
 
 CMakeFiles/my_stl.dir/sort.cpp.o: ../sort.cpp
