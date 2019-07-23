@@ -58,7 +58,7 @@
 //        return arr[idx];
 //    }
 //
-//    int operator [] (int idx) const {
+//    int operator [] (int idx) const { // 꼭 const 붙여야 함
 //        return arr[idx];
 //    }
 //};
